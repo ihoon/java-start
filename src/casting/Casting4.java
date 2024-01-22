@@ -11,7 +11,7 @@ public class Casting4 {
         double div3 = 3.0 /2; //double / int ->  double/int -> double/double -> double;
         System.out.println("div3 = " + div3);
 
-        double div4 = (double) 3/2; //명시적 형변환을 사용했다 (double) int / int -> double / double로 형변환 발생
+        double div4 = (double) 3/2; //명시적 형변환을 사용했다 (double) int / int -> double / double 로 형변환 발생;
         System.out.println("div4 = " + div4);
 
         int a = 3;
