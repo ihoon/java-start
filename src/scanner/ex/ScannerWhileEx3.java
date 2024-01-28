@@ -8,7 +8,7 @@ public class ScannerWhileEx3 {
 
         int sum = 0;
         int count = 0;
-        int input = 0;
+        int input  = 0;
 
         System.out.println("숫자를 입력 하세요. 입력을 중단하려면 -1을 입력 하세요: ");
 
