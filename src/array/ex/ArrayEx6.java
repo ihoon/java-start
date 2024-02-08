@@ -17,7 +17,9 @@ public class ArrayEx6 {
             numbers[i] = scanner.nextInt();
         }
 
-        minNumber = maxNumber = numbers[0];
+//        minNumber = numbers[0];
+//        maxNumber = numbers[0];
+        minNumber = maxNumber = numbers[0];      //외와 같은 표현
 
         for (int i = 1; i < n; i++) {
             if (numbers[i] < minNumber) {
